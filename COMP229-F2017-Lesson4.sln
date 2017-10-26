@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP229-F2016-Lesson4", "COMP229-F2016-Lesson4\COMP229-F2016-Lesson4.csproj", "{50E45E4F-D0D4-41AF-B9E9-4C5DA0AE9C40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP229-F2017-Lesson4", "COMP229-F2016-Lesson4\COMP229-F2017-Lesson4.csproj", "{50E45E4F-D0D4-41AF-B9E9-4C5DA0AE9C40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -23,11 +23,17 @@ namespace COMP229_F2016_Lesson4
                 case "Home":
                     home.Attributes.Add("class", "active");
                     break;
-                case "Projects":
-                    projects.Attributes.Add("class", "active");
+                case "Students":
+                    Students.Attributes.Add("class", "active");
                     break;
-                case "Services":
-                    services.Attributes.Add("class", "active");
+                case "Courses":
+                    Courses.Attributes.Add("class", "active");
+                    break;
+                case "Departments":
+                    Departments.Attributes.Add("class", "active");
+                    break;
+                case "Enrollments":
+                    Enrollments.Attributes.Add("class", "active");
                     break;
                 case "About":
                     about.Attributes.Add("class", "active");
